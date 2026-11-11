@@ -135,6 +135,4 @@ Creating meaningful visualizations using Matplotlib.
 
 Shreyashi Jain
 
-GitHub: @shreyashiijain
-
-LinkedIn: Connect with me
+GitHub: @itsshivaniyadav27-blip
