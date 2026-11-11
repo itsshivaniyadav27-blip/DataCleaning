@@ -119,7 +119,7 @@ jupyter notebook netflix.ipynb
 
 Alternatively, you can run the notebook directly on Google Colab:
 
-[Open in Google Colab]()
+[Open in Google Colab](https://colab.research.google.com/drive/1ifgZ9Bijwg3LzGnDoqm4MNobce16gbi1?usp=sharing)
 
 ## 📌 Key Learnings
 
